@@ -1,5 +1,7 @@
 # elm-http
 
+*Note: If you are using Elm 0.18 or later then you want [elm-lang/http](http://package.elm-lang.org/packages/elm-lang/http/latest).*
+
 Make HTTP requests in Elm.
 
 The `Http` module aims to cover some of the most common cases of requesting
